@@ -1,0 +1,12 @@
+Package: REGPORC
+Type: Package
+Title: Predicción de lechones en próximo parto
+Version: 0.1.0
+Author: José Ángel Carrillo Félix
+Maintainer: The package maintainer <carrillofelixjoseangel@gmail.com>
+Description: Este paquete aplica regresión lineal para predecir el número de lechones en el próximo parto.
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+
